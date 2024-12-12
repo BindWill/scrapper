@@ -36,10 +36,10 @@ Data is saved in JSON format
 
 ## What Gets Scraped 📝
 The scraper will collect:
-Page titles
-Summaries
-Full text content
-Code blocks
-Section headers
-Metadata
+Page titles,
+Summaries,
+Full text content,
+Code blocks,
+Section headers,
+Metadata,
 Sublinks (if enabled)
