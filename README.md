@@ -22,11 +22,11 @@ npm start -- https://your-documentation-url.com
 ## Configuration Options 🛠️
 You can modify these options when creating the scraper (defaults shown):
 const scraper = new DocumentScraper({
-    maxDepth: 3,          // How deep to follow links
-    checkSublinks: true,  // Check if links are working
-    saveToFile: true,     // Save results to file
-    outputDir: 'scraped-data',
-    timeout: 60000        // 60 seconds timeout
+   1. maxDepth: 3,          // How deep to follow links
+   2. checkSublinks: true,  // Check if links are working
+   3. saveToFile: true,     // Save results to file
+   4. outputDir: 'scraped-data',
+   5. timeout: 60000        // 60 seconds timeout
 });
 
 ## Output Location 📁
