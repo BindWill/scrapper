@@ -1,3 +1,6 @@
+Please don't use this for unethical reasons ser
+
+
 # Documentation Scraper Setup Guide
 What This Does
 This tool scrapes and saves documentation from websites into structured JSON files.
