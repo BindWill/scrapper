@@ -2,9 +2,10 @@ Please don't use this for unethical reasons ser
 
 
 # Documentation Scraper Setup Guide
-What This Does
 This tool scrapes and saves documentation from websites into structured JSON files, this is intend for 
-educationational purposes so that you may best understand the projects you are working with.
+educationational purposes so that you may best understand the projects you are working with, only use to
+provide context.
+
 Prerequisites
 Install Node.js (LTS version)
 Install Git
